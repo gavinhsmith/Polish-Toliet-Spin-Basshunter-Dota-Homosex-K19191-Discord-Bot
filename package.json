@@ -1,0 +1,27 @@
+{
+  "name": "polish-toliet-spin-basshunter-dota-homosex-k19191-discord-bot",
+  "version": "0.1.0",
+  "description": "Polish Toliet Spin Basshunter Dota Homosex K19191 Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinhsmith/Polish-Toliet-Spin-Basshunter-Dota-Homosex-K19191-Discord-Bot.git"
+  },
+  "keywords": [
+    "Memes",
+    "Polish",
+    "Toliet"
+  ],
+  "author": "gavinhsmith <gavinhsmith420@gmail.com> (https://www.github.com/gavinhsmith)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinhsmith/Polish-Toliet-Spin-Basshunter-Dota-Homosex-K19191-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/gavinhsmith/Polish-Toliet-Spin-Basshunter-Dota-Homosex-K19191-Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
